@@ -47,7 +47,7 @@ metadata.forEach(element => {
             element.attributes.push({ trait_type: "colour", value: "black"});
             element.attributes.push({ trait_type: "background", value: "forming planet"});
 
-        } /*else if(attribute.trait_type === 'number' && attribute.value === '11') {
+        } else if(attribute.trait_type === 'number' && attribute.value === '11') {
             element.attributes.push({ trait_type: "colour", value: "purple"});
             element.attributes.push({ trait_type: "background", value: "gas giant"});
 
@@ -59,7 +59,7 @@ metadata.forEach(element => {
             element.attributes.push({ trait_type: "colour", value: "orange"});
             element.attributes.push({ trait_type: "background", value: "blackhole"});
 
-        } else if(attribute.trait_type === 'number' && attribute.value === '14') {
+        } /*else if(attribute.trait_type === 'number' && attribute.value === '14') {
             element.attributes.push({ trait_type: "colour", value: "silver"});
             element.attributes.push({ trait_type: "background", value: "planet desert ring"});
 
