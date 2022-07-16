@@ -3,5 +3,5 @@
 const fs = require('fs');
 
 let rawdata = fs.readFileSync('./assets/ASTRO_EAGLE.json');
-let student = JSON.parse(rawdata);
-console.log(student);
+let metadata = JSON.parse(rawdata);
+console.log(metadata);
