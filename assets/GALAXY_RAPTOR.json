@@ -35,14 +35,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -97,14 +89,6 @@
       {
         "trait_type": "shield",
         "value": "64"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -159,14 +143,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -221,14 +197,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -283,14 +251,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -345,14 +305,6 @@
       {
         "trait_type": "shield",
         "value": "70"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -407,14 +359,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -469,14 +413,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -531,14 +467,6 @@
       {
         "trait_type": "shield",
         "value": "75"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -593,14 +521,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -655,14 +575,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -717,14 +629,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -779,14 +683,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -841,14 +737,6 @@
       {
         "trait_type": "shield",
         "value": "72"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -903,14 +791,6 @@
       {
         "trait_type": "shield",
         "value": "70"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -965,14 +845,6 @@
       {
         "trait_type": "shield",
         "value": "77"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -1027,14 +899,6 @@
       {
         "trait_type": "shield",
         "value": "69"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -1089,14 +953,6 @@
       {
         "trait_type": "shield",
         "value": "75"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -1151,14 +1007,6 @@
       {
         "trait_type": "shield",
         "value": "75"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -1213,14 +1061,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -1275,14 +1115,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -1337,14 +1169,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -1399,14 +1223,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -1461,14 +1277,6 @@
       {
         "trait_type": "shield",
         "value": "75"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -1523,14 +1331,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -1585,14 +1385,6 @@
       {
         "trait_type": "shield",
         "value": "77"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -1647,14 +1439,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -1709,14 +1493,6 @@
       {
         "trait_type": "shield",
         "value": "72"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -1771,14 +1547,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -1833,14 +1601,6 @@
       {
         "trait_type": "shield",
         "value": "80"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -1895,14 +1655,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -1957,14 +1709,6 @@
       {
         "trait_type": "shield",
         "value": "68"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -2019,14 +1763,6 @@
       {
         "trait_type": "shield",
         "value": "64"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -2081,14 +1817,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -2143,14 +1871,6 @@
       {
         "trait_type": "shield",
         "value": "65"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -2205,14 +1925,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -2267,14 +1979,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -2329,14 +2033,6 @@
       {
         "trait_type": "shield",
         "value": "70"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -2391,14 +2087,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -2453,14 +2141,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -2515,14 +2195,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -2577,14 +2249,6 @@
       {
         "trait_type": "shield",
         "value": "72"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -2639,14 +2303,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -2701,14 +2357,6 @@
       {
         "trait_type": "shield",
         "value": "60"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -2763,14 +2411,6 @@
       {
         "trait_type": "shield",
         "value": "63"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -2825,14 +2465,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -2887,14 +2519,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -2949,14 +2573,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -3011,14 +2627,6 @@
       {
         "trait_type": "shield",
         "value": "72"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -3073,14 +2681,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -3135,14 +2735,6 @@
       {
         "trait_type": "shield",
         "value": "77"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -3197,14 +2789,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -3259,14 +2843,6 @@
       {
         "trait_type": "shield",
         "value": "77"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -3321,14 +2897,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -3383,14 +2951,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -3445,14 +3005,6 @@
       {
         "trait_type": "shield",
         "value": "63"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -3507,14 +3059,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -3569,14 +3113,6 @@
       {
         "trait_type": "shield",
         "value": "70"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -3631,14 +3167,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -3693,14 +3221,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -3755,14 +3275,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -3817,14 +3329,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -3879,14 +3383,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -3941,14 +3437,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -4003,14 +3491,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -4065,14 +3545,6 @@
       {
         "trait_type": "shield",
         "value": "69"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -4127,14 +3599,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -4189,14 +3653,6 @@
       {
         "trait_type": "shield",
         "value": "65"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -4251,14 +3707,6 @@
       {
         "trait_type": "shield",
         "value": "64"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -4313,14 +3761,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -4375,14 +3815,6 @@
       {
         "trait_type": "shield",
         "value": "70"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -4437,14 +3869,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -4499,14 +3923,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -4561,14 +3977,6 @@
       {
         "trait_type": "shield",
         "value": "68"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -4623,14 +4031,6 @@
       {
         "trait_type": "shield",
         "value": "64"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -4685,14 +4085,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -4747,14 +4139,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -4809,14 +4193,6 @@
       {
         "trait_type": "shield",
         "value": "69"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -4871,14 +4247,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -4933,14 +4301,6 @@
       {
         "trait_type": "shield",
         "value": "70"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -4995,14 +4355,6 @@
       {
         "trait_type": "shield",
         "value": "63"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -5057,14 +4409,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -5119,14 +4463,6 @@
       {
         "trait_type": "shield",
         "value": "65"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -5181,14 +4517,6 @@
       {
         "trait_type": "shield",
         "value": "68"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -5243,14 +4571,6 @@
       {
         "trait_type": "shield",
         "value": "75"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -5305,14 +4625,6 @@
       {
         "trait_type": "shield",
         "value": "60"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -5367,14 +4679,6 @@
       {
         "trait_type": "shield",
         "value": "69"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -5429,14 +4733,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -5491,14 +4787,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -5553,14 +4841,6 @@
       {
         "trait_type": "shield",
         "value": "77"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -5615,14 +4895,6 @@
       {
         "trait_type": "shield",
         "value": "80"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -5677,14 +4949,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -5739,14 +5003,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -5801,14 +5057,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -5863,14 +5111,6 @@
       {
         "trait_type": "shield",
         "value": "65"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -5925,14 +5165,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -5987,14 +5219,6 @@
       {
         "trait_type": "shield",
         "value": "75"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -6049,14 +5273,6 @@
       {
         "trait_type": "shield",
         "value": "72"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -6111,14 +5327,6 @@
       {
         "trait_type": "shield",
         "value": "64"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -6173,14 +5381,6 @@
       {
         "trait_type": "shield",
         "value": "80"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -6235,14 +5435,6 @@
       {
         "trait_type": "shield",
         "value": "63"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -6297,14 +5489,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -6359,14 +5543,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -6421,14 +5597,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -6483,14 +5651,6 @@
       {
         "trait_type": "shield",
         "value": "63"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -6545,14 +5705,6 @@
       {
         "trait_type": "shield",
         "value": "63"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -6607,14 +5759,6 @@
       {
         "trait_type": "shield",
         "value": "64"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -6669,14 +5813,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -6731,14 +5867,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -6793,14 +5921,6 @@
       {
         "trait_type": "shield",
         "value": "75"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -6855,14 +5975,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -6917,14 +6029,6 @@
       {
         "trait_type": "shield",
         "value": "65"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -6979,14 +6083,6 @@
       {
         "trait_type": "shield",
         "value": "80"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -7041,14 +6137,6 @@
       {
         "trait_type": "shield",
         "value": "69"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -7103,14 +6191,6 @@
       {
         "trait_type": "shield",
         "value": "69"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -7165,14 +6245,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -7227,14 +6299,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -7289,14 +6353,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -7351,14 +6407,6 @@
       {
         "trait_type": "shield",
         "value": "64"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -7413,14 +6461,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -7475,14 +6515,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -7537,14 +6569,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -7599,14 +6623,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -7661,14 +6677,6 @@
       {
         "trait_type": "shield",
         "value": "68"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -7723,14 +6731,6 @@
       {
         "trait_type": "shield",
         "value": "64"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -7785,14 +6785,6 @@
       {
         "trait_type": "shield",
         "value": "70"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -7847,14 +6839,6 @@
       {
         "trait_type": "shield",
         "value": "77"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -7909,14 +6893,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -7971,14 +6947,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -8033,14 +7001,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -8095,14 +7055,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -8157,14 +7109,6 @@
       {
         "trait_type": "shield",
         "value": "65"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -8219,14 +7163,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -8281,14 +7217,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -8343,14 +7271,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -8405,14 +7325,6 @@
       {
         "trait_type": "shield",
         "value": "68"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -8467,14 +7379,6 @@
       {
         "trait_type": "shield",
         "value": "70"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -8529,14 +7433,6 @@
       {
         "trait_type": "shield",
         "value": "65"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -8591,14 +7487,6 @@
       {
         "trait_type": "shield",
         "value": "64"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -8653,14 +7541,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -8715,14 +7595,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -8777,14 +7649,6 @@
       {
         "trait_type": "shield",
         "value": "80"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -8839,14 +7703,6 @@
       {
         "trait_type": "shield",
         "value": "75"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -8901,14 +7757,6 @@
       {
         "trait_type": "shield",
         "value": "77"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -8963,14 +7811,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -9025,14 +7865,6 @@
       {
         "trait_type": "shield",
         "value": "80"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -9087,14 +7919,6 @@
       {
         "trait_type": "shield",
         "value": "63"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -9149,14 +7973,6 @@
       {
         "trait_type": "shield",
         "value": "68"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -9211,14 +8027,6 @@
       {
         "trait_type": "shield",
         "value": "64"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -9273,14 +8081,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -9335,14 +8135,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -9397,14 +8189,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -9459,14 +8243,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -9521,14 +8297,6 @@
       {
         "trait_type": "shield",
         "value": "60"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -9583,14 +8351,6 @@
       {
         "trait_type": "shield",
         "value": "72"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -9645,14 +8405,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -9707,14 +8459,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -9769,14 +8513,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -9831,14 +8567,6 @@
       {
         "trait_type": "shield",
         "value": "69"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -9893,14 +8621,6 @@
       {
         "trait_type": "shield",
         "value": "69"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -9955,14 +8675,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -10017,14 +8729,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -10079,14 +8783,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -10141,14 +8837,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -10203,14 +8891,6 @@
       {
         "trait_type": "shield",
         "value": "63"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -10265,14 +8945,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -10327,14 +8999,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -10389,14 +9053,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -10451,14 +9107,6 @@
       {
         "trait_type": "shield",
         "value": "63"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -10513,14 +9161,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -10575,14 +9215,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -10637,14 +9269,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -10699,14 +9323,6 @@
       {
         "trait_type": "shield",
         "value": "60"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -10761,14 +9377,6 @@
       {
         "trait_type": "shield",
         "value": "65"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -10823,14 +9431,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -10885,14 +9485,6 @@
       {
         "trait_type": "shield",
         "value": "69"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -10947,14 +9539,6 @@
       {
         "trait_type": "shield",
         "value": "72"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -11009,14 +9593,6 @@
       {
         "trait_type": "shield",
         "value": "63"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -11071,14 +9647,6 @@
       {
         "trait_type": "shield",
         "value": "77"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -11133,14 +9701,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -11195,14 +9755,6 @@
       {
         "trait_type": "shield",
         "value": "65"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -11257,14 +9809,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -11319,14 +9863,6 @@
       {
         "trait_type": "shield",
         "value": "69"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -11381,14 +9917,6 @@
       {
         "trait_type": "shield",
         "value": "72"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -11443,14 +9971,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -11505,14 +10025,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -11567,14 +10079,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -11629,14 +10133,6 @@
       {
         "trait_type": "shield",
         "value": "70"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -11691,14 +10187,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -11753,14 +10241,6 @@
       {
         "trait_type": "shield",
         "value": "64"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -11815,14 +10295,6 @@
       {
         "trait_type": "shield",
         "value": "60"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -11877,14 +10349,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -11939,14 +10403,6 @@
       {
         "trait_type": "shield",
         "value": "65"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -12001,14 +10457,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -12063,14 +10511,6 @@
       {
         "trait_type": "shield",
         "value": "77"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -12125,14 +10565,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -12187,14 +10619,6 @@
       {
         "trait_type": "shield",
         "value": "77"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -12249,14 +10673,6 @@
       {
         "trait_type": "shield",
         "value": "60"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -12311,14 +10727,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -12373,14 +10781,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -12435,14 +10835,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -12497,14 +10889,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -12559,14 +10943,6 @@
       {
         "trait_type": "shield",
         "value": "72"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -12621,14 +10997,6 @@
       {
         "trait_type": "shield",
         "value": "70"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -12683,14 +11051,6 @@
       {
         "trait_type": "shield",
         "value": "68"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -12745,14 +11105,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -12807,14 +11159,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -12869,14 +11213,6 @@
       {
         "trait_type": "shield",
         "value": "60"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -12931,14 +11267,6 @@
       {
         "trait_type": "shield",
         "value": "72"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -12993,14 +11321,6 @@
       {
         "trait_type": "shield",
         "value": "60"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -13055,14 +11375,6 @@
       {
         "trait_type": "shield",
         "value": "68"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -13117,14 +11429,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -13179,14 +11483,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -13241,14 +11537,6 @@
       {
         "trait_type": "shield",
         "value": "64"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -13303,14 +11591,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -13365,14 +11645,6 @@
       {
         "trait_type": "shield",
         "value": "68"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -13427,14 +11699,6 @@
       {
         "trait_type": "shield",
         "value": "60"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -13489,14 +11753,6 @@
       {
         "trait_type": "shield",
         "value": "69"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -13551,14 +11807,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -13613,14 +11861,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -13675,14 +11915,6 @@
       {
         "trait_type": "shield",
         "value": "77"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -13737,14 +11969,6 @@
       {
         "trait_type": "shield",
         "value": "75"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -13799,14 +12023,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -13861,14 +12077,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -13923,14 +12131,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -13985,14 +12185,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -14047,14 +12239,6 @@
       {
         "trait_type": "shield",
         "value": "75"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -14109,14 +12293,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -14171,14 +12347,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -14233,14 +12401,6 @@
       {
         "trait_type": "shield",
         "value": "77"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -14295,14 +12455,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -14357,14 +12509,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -14419,14 +12563,6 @@
       {
         "trait_type": "shield",
         "value": "69"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -14481,14 +12617,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -14543,14 +12671,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -14605,14 +12725,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -14667,14 +12779,6 @@
       {
         "trait_type": "shield",
         "value": "75"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -14729,14 +12833,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -14791,14 +12887,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -14853,14 +12941,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -14915,14 +12995,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -14977,14 +13049,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -15039,14 +13103,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -15101,14 +13157,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -15163,14 +13211,6 @@
       {
         "trait_type": "shield",
         "value": "64"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -15225,14 +13265,6 @@
       {
         "trait_type": "shield",
         "value": "77"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -15287,14 +13319,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -15349,14 +13373,6 @@
       {
         "trait_type": "shield",
         "value": "80"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -15411,14 +13427,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -15473,14 +13481,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -15535,14 +13535,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -15597,14 +13589,6 @@
       {
         "trait_type": "shield",
         "value": "63"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -15659,14 +13643,6 @@
       {
         "trait_type": "shield",
         "value": "70"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -15721,14 +13697,6 @@
       {
         "trait_type": "shield",
         "value": "75"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -15783,14 +13751,6 @@
       {
         "trait_type": "shield",
         "value": "75"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -15845,14 +13805,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -15907,14 +13859,6 @@
       {
         "trait_type": "shield",
         "value": "69"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -15969,14 +13913,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -16031,14 +13967,6 @@
       {
         "trait_type": "shield",
         "value": "77"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -16093,14 +14021,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -16155,14 +14075,6 @@
       {
         "trait_type": "shield",
         "value": "69"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -16217,14 +14129,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -16279,14 +14183,6 @@
       {
         "trait_type": "shield",
         "value": "72"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -16341,14 +14237,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -16403,14 +14291,6 @@
       {
         "trait_type": "shield",
         "value": "63"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -16465,14 +14345,6 @@
       {
         "trait_type": "shield",
         "value": "80"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -16527,14 +14399,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -16589,14 +14453,6 @@
       {
         "trait_type": "shield",
         "value": "80"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -16651,14 +14507,6 @@
       {
         "trait_type": "shield",
         "value": "63"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -16713,14 +14561,6 @@
       {
         "trait_type": "shield",
         "value": "70"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -16775,14 +14615,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -16837,14 +14669,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -16899,14 +14723,6 @@
       {
         "trait_type": "shield",
         "value": "64"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -16961,14 +14777,6 @@
       {
         "trait_type": "shield",
         "value": "60"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -17023,14 +14831,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -17085,14 +14885,6 @@
       {
         "trait_type": "shield",
         "value": "65"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -17147,14 +14939,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -17209,14 +14993,6 @@
       {
         "trait_type": "shield",
         "value": "68"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -17271,14 +15047,6 @@
       {
         "trait_type": "shield",
         "value": "60"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -17333,14 +15101,6 @@
       {
         "trait_type": "shield",
         "value": "69"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -17395,14 +15155,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -17457,14 +15209,6 @@
       {
         "trait_type": "shield",
         "value": "65"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -17519,14 +15263,6 @@
       {
         "trait_type": "shield",
         "value": "63"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -17581,14 +15317,6 @@
       {
         "trait_type": "shield",
         "value": "65"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -17643,14 +15371,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -17705,14 +15425,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -17767,14 +15479,6 @@
       {
         "trait_type": "shield",
         "value": "69"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -17829,14 +15533,6 @@
       {
         "trait_type": "shield",
         "value": "68"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -17891,14 +15587,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -17953,14 +15641,6 @@
       {
         "trait_type": "shield",
         "value": "68"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -18015,14 +15695,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -18077,14 +15749,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -18139,14 +15803,6 @@
       {
         "trait_type": "shield",
         "value": "80"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -18201,14 +15857,6 @@
       {
         "trait_type": "shield",
         "value": "60"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -18263,14 +15911,6 @@
       {
         "trait_type": "shield",
         "value": "69"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -18325,14 +15965,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -18387,14 +16019,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -18449,14 +16073,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -18511,14 +16127,6 @@
       {
         "trait_type": "shield",
         "value": "65"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -18573,14 +16181,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -18635,14 +16235,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -18697,14 +16289,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -18759,14 +16343,6 @@
       {
         "trait_type": "shield",
         "value": "65"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -18821,14 +16397,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -18883,14 +16451,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -18945,14 +16505,6 @@
       {
         "trait_type": "shield",
         "value": "80"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -19007,14 +16559,6 @@
       {
         "trait_type": "shield",
         "value": "80"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -19069,14 +16613,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -19131,14 +16667,6 @@
       {
         "trait_type": "shield",
         "value": "70"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -19193,14 +16721,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -19255,14 +16775,6 @@
       {
         "trait_type": "shield",
         "value": "75"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -19317,14 +16829,6 @@
       {
         "trait_type": "shield",
         "value": "75"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -19379,14 +16883,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -19441,14 +16937,6 @@
       {
         "trait_type": "shield",
         "value": "72"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -19503,14 +16991,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -19565,14 +17045,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -19627,14 +17099,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -19689,14 +17153,6 @@
       {
         "trait_type": "shield",
         "value": "60"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -19751,14 +17207,6 @@
       {
         "trait_type": "shield",
         "value": "75"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -19813,14 +17261,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -19875,14 +17315,6 @@
       {
         "trait_type": "shield",
         "value": "63"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -19937,14 +17369,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -19999,14 +17423,6 @@
       {
         "trait_type": "shield",
         "value": "80"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -20061,14 +17477,6 @@
       {
         "trait_type": "shield",
         "value": "68"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -20123,14 +17531,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -20185,14 +17585,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -20247,14 +17639,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -20309,14 +17693,6 @@
       {
         "trait_type": "shield",
         "value": "80"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -20371,14 +17747,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -20433,14 +17801,6 @@
       {
         "trait_type": "shield",
         "value": "65"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -20495,14 +17855,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -20557,14 +17909,6 @@
       {
         "trait_type": "shield",
         "value": "64"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -20619,14 +17963,6 @@
       {
         "trait_type": "shield",
         "value": "80"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -20681,14 +18017,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -20743,14 +18071,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -20805,14 +18125,6 @@
       {
         "trait_type": "shield",
         "value": "77"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -20867,14 +18179,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -20929,14 +18233,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -20991,14 +18287,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -21053,14 +18341,6 @@
       {
         "trait_type": "shield",
         "value": "72"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -21115,14 +18395,6 @@
       {
         "trait_type": "shield",
         "value": "72"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -21177,14 +18449,6 @@
       {
         "trait_type": "shield",
         "value": "63"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -21239,14 +18503,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -21301,14 +18557,6 @@
       {
         "trait_type": "shield",
         "value": "68"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -21363,14 +18611,6 @@
       {
         "trait_type": "shield",
         "value": "72"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -21425,14 +18665,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -21487,14 +18719,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -21549,14 +18773,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -21611,14 +18827,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -21673,14 +18881,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -21735,14 +18935,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -21797,14 +18989,6 @@
       {
         "trait_type": "shield",
         "value": "60"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -21859,14 +19043,6 @@
       {
         "trait_type": "shield",
         "value": "75"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -21921,14 +19097,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -21983,14 +19151,6 @@
       {
         "trait_type": "shield",
         "value": "80"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -22045,14 +19205,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -22107,14 +19259,6 @@
       {
         "trait_type": "shield",
         "value": "80"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -22169,14 +19313,6 @@
       {
         "trait_type": "shield",
         "value": "64"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -22231,14 +19367,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -22293,14 +19421,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -22355,14 +19475,6 @@
       {
         "trait_type": "shield",
         "value": "72"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -22417,14 +19529,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -22479,14 +19583,6 @@
       {
         "trait_type": "shield",
         "value": "73"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -22541,14 +19637,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -22603,14 +19691,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -22665,14 +19745,6 @@
       {
         "trait_type": "shield",
         "value": "64"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -22727,14 +19799,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -22789,14 +19853,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -22851,14 +19907,6 @@
       {
         "trait_type": "shield",
         "value": "60"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -22913,14 +19961,6 @@
       {
         "trait_type": "shield",
         "value": "72"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -22975,14 +20015,6 @@
       {
         "trait_type": "shield",
         "value": "80"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -23037,14 +20069,6 @@
       {
         "trait_type": "shield",
         "value": "70"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -23099,14 +20123,6 @@
       {
         "trait_type": "shield",
         "value": "70"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -23161,14 +20177,6 @@
       {
         "trait_type": "shield",
         "value": "63"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -23223,14 +20231,6 @@
       {
         "trait_type": "shield",
         "value": "63"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -23285,14 +20285,6 @@
       {
         "trait_type": "shield",
         "value": "69"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -23347,14 +20339,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -23409,14 +20393,6 @@
       {
         "trait_type": "shield",
         "value": "60"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -23471,14 +20447,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -23533,14 +20501,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -23595,14 +20555,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -23657,14 +20609,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -23719,14 +20663,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -23781,14 +20717,6 @@
       {
         "trait_type": "shield",
         "value": "70"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -23843,14 +20771,6 @@
       {
         "trait_type": "shield",
         "value": "69"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -23905,14 +20825,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -23967,14 +20879,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -24029,14 +20933,6 @@
       {
         "trait_type": "shield",
         "value": "68"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -24091,14 +20987,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -24153,14 +21041,6 @@
       {
         "trait_type": "shield",
         "value": "68"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -24215,14 +21095,6 @@
       {
         "trait_type": "shield",
         "value": "77"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -24277,14 +21149,6 @@
       {
         "trait_type": "shield",
         "value": "63"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -24339,14 +21203,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -24401,14 +21257,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -24463,14 +21311,6 @@
       {
         "trait_type": "shield",
         "value": "68"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -24525,14 +21365,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -24587,14 +21419,6 @@
       {
         "trait_type": "shield",
         "value": "63"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -24649,14 +21473,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -24711,14 +21527,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -24773,14 +21581,6 @@
       {
         "trait_type": "shield",
         "value": "79"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -24835,14 +21635,6 @@
       {
         "trait_type": "shield",
         "value": "62"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -24897,14 +21689,6 @@
       {
         "trait_type": "shield",
         "value": "65"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -24959,14 +21743,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -25021,14 +21797,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -25083,14 +21851,6 @@
       {
         "trait_type": "shield",
         "value": "66"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -25145,14 +21905,6 @@
       {
         "trait_type": "shield",
         "value": "76"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -25207,14 +21959,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -25269,14 +22013,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -25331,14 +22067,6 @@
       {
         "trait_type": "shield",
         "value": "74"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -25393,14 +22121,6 @@
       {
         "trait_type": "shield",
         "value": "78"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -25455,14 +22175,6 @@
       {
         "trait_type": "shield",
         "value": "77"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -25517,14 +22229,6 @@
       {
         "trait_type": "shield",
         "value": "72"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -25579,14 +22283,6 @@
       {
         "trait_type": "shield",
         "value": "70"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -25641,14 +22337,6 @@
       {
         "trait_type": "shield",
         "value": "61"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -25703,14 +22391,6 @@
       {
         "trait_type": "shield",
         "value": "67"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
@@ -25765,14 +22445,6 @@
       {
         "trait_type": "shield",
         "value": "71"
-      },
-      {
-        "trait_type": "colour",
-        "value": "bgstatic"
-      },
-      {
-        "trait_type": "background",
-        "value": "bgstatic"
       }
     ],
     "properties": {
